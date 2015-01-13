@@ -2,5 +2,9 @@
 title: moment's notice help
 email: 
 
+# collections
+collections:
+- articles
+
 # Build settings
 markdown: kramdown
