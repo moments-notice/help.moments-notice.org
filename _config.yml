@@ -4,7 +4,8 @@ email:
 
 # collections
 collections:
-- articles
+  articles:
+    output: true
 
 # Build settings
 markdown: kramdown
