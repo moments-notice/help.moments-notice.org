@@ -12,6 +12,14 @@ category: basics
 * [Nikon FE2](http://foto.aaweb.cz/pdf/camera/nikon/nikon_fe2.pdf)
 
 ## Development Datasheets
+* [Kodak General Film Processing](http://www.kodak.com/global/en/professional/support/techPubs/edbwf/edbwf.pdf)
+
+### Developers
 * [Kodak D-76](http://www.kodak.com/global/en/professional/support/techPubs/j78/j78.pdf)
+
+### General Chemistry
+* [Kodak](http://www.kodak.com/global/en/professional/support/techPubs/e103cf/e103cf.pdf)
+
+### Films
 * [Kodak Tri-X New Packaging](http://www.kodak.com/global/en/professional/support/techPubs/f4017/f4017.pdf)
 * [Kodak Tri-X Old Packaging](http://www.kodak.com/global/en/professional/support/techPubs/f9/f9.pdf)
